@@ -22,9 +22,10 @@ Tasks to ask the python backend engineer to complete in this repo during the int
 - Use of data structures like data models
 - Thoughs around code quality
 - Experienced with Testing
-- Has CI/CD understanding
+- Has CI/CD understanding - deployment
 - Deliberate code design style - functional vs object oriented
 - Writing clean and maintainable code
+- Understanding of Cloud services
 
 # Introduction to the case
 - Work as you normally would in a professional setting
@@ -36,3 +37,4 @@ Tasks to ask the python backend engineer to complete in this repo during the int
 - It is about demonstrating your skills, not about completing all tasks or getting everything right
 - Think out loud - we want to understand your thought process
 - The scope is to write code that is **production ready**
+- The code is for a backend that integrates with a frontend 
